@@ -1,2 +1,2 @@
-export const release = 1;
-export const maxQuantity = 100;
+export const release = 2;
+export const maxQuantity = 120;
